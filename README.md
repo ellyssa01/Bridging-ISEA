@@ -20,3 +20,6 @@ final
 add users
 <img width="1035" height="746" alt="Screenshot 2026-09-13 113049_edited" src="https://github.com/user-attachments/assets/5d16b4f0-1195-49b2-b784-ee7c32adf99e" />
 
+
+test permission
+<img width="344" height="180" alt="Screenshot 2026-09-13 114524_edited" src="https://github.com/user-attachments/assets/f81f6fcf-543d-4c25-9cd0-78961647746f" />

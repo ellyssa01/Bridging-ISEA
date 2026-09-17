@@ -28,6 +28,19 @@ test each user
 test permission
 <img width="344" height="180" alt="Screenshot 2026-09-13 114524_edited" src="https://github.com/user-attachments/assets/f81f6fcf-543d-4c25-9cd0-78961647746f" />
 
-run sudo apt update on ubuntu using AWS<img width="1900" height="1069" alt="Screenshot 2026-09-13 153600_edited" src="https://github.com/user-attachments/assets/151a7fa3-6510-4044-bfa4-d734ce53c394" />
 
+
+run sudo apt update on ubuntu using AWS
 <img width="1892" height="1078" alt="Screenshot 2026-09-13 152134_edited" src="https://github.com/user-attachments/assets/ebb4e06f-7bc2-48f2-adf8-2b055c80d0b5" />
+
+
+start and enable apache2
+<img width="1003" height="87" alt="Screenshot 2026-09-13 153818_edited" src="https://github.com/user-attachments/assets/8d24a0b5-f568-4050-ab4c-a7019456efa3" />
+
+check the status for apache2
+<img width="1000" height="325" alt="Screenshot 2026-09-13 153947_edited" src="https://github.com/user-attachments/assets/b090236c-8d37-434f-ab4f-d1179fd3fbdb" />
+
+
+check if apache2 sucesfully running and appear default landing page
+<img width="1926" height="1303" alt="Screenshot 2026-09-13 160947_edited" src="https://github.com/user-attachments/assets/f292c938-9dd0-44a9-bfe5-1b28f6b289cd" />
+

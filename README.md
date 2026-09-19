@@ -67,6 +67,37 @@ I opened the website and confirmed that the browser displayed a secure connectio
 Test the automatic renewal process using a Certbot dry run
 <img width="727" height="355" alt="Screenshot 2026-09-19 124408_edited" src="https://github.com/user-attachments/assets/31a5e846-32b9-4a38-9d2a-85e0a13b5c38" />
 
+I practice basic bash commands before creating backup script
+<img width="565" height="253" alt="Screenshot 2026-09-19 163705_edited" src="https://github.com/user-attachments/assets/4927efc5-b7c9-47c0-8fad-8da0b1044985" />
+
+test files and directories
+<img width="959" height="138" alt="Screenshot 2026-09-19 164329_edited" src="https://github.com/user-attachments/assets/4ad22ff9-c77a-4830-b394-c06f018f8264" />
+
+
+install "zip" package
+<img width="941" height="225" alt="Screenshot 2026-09-19 164502_edited" src="https://github.com/user-attachments/assets/7d368075-6c38-47e9-b64d-3389e6e2e63b" />
+
+create bashscript
+<img width="541" height="363" alt="Screenshot 2026-09-19 164624_edited" src="https://github.com/user-attachments/assets/a5dbe4a2-98f7-40c1-96db-e197687cae15" />
+
+execute script and ran manually
+<img width="881" height="222" alt="Screenshot 2026-09-19 164930_edited" src="https://github.com/user-attachments/assets/ec8774a5-fcf9-41ac-90dd-85e4adc3516e" />
+
+
+moved it to '/usr/bin' so it can run from any directory<img width="786" height="147" alt="Screenshot 2026-09-19 165102_edited" src="https://github.com/user-attachments/assets/9675f837-52f9-4a76-8689-6fed2e6aa8de" />
+
+
+cron job<img width="624" height="464" alt="Screenshot 2026-09-19 165721_edited" src="https://github.com/user-attachments/assets/5738ef1c-cb6e-4dc3-84d0-c5cfd283bf83" />
+
+cron execution verification<img width="1346" height="326" alt="Screenshot 2026-09-19 165836_edited" src="https://github.com/user-attachments/assets/3c483c03-deec-4325-af11-1e5fd68a969f" />
+
+
+
+
+
+
+
+
 
 
 

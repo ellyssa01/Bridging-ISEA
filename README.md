@@ -92,6 +92,22 @@ cron job<img width="624" height="464" alt="Screenshot 2026-09-19 165721_edited" 
 cron execution verification<img width="1346" height="326" alt="Screenshot 2026-09-19 165836_edited" src="https://github.com/user-attachments/assets/3c483c03-deec-4325-af11-1e5fd68a969f" />
 
 
+installing maria db on ubuntu
+<img width="1012" height="611" alt="AdobeExpressPhotos_fe315f6fb4ff44c0b3012e047e491e0d_CopyEdited" src="https://github.com/user-attachments/assets/e3d4851d-6731-4c56-81b2-08849eb59467" />
+
+
+Starts at boot
+<img width="850" height="70" alt="Screenshot 2026-09-20 122405_edited" src="https://github.com/user-attachments/assets/9055b7b9-e742-4d1f-938c-7dd8680849cb" />
+
+
+Security setup
+<img width="573" height="259" alt="Screenshot 2026-09-20 122530_edited" src="https://github.com/user-attachments/assets/e112990d-6fc5-4daf-93d5-c6dab801ce94" />
+
+
+
+Database created
+<img width="981" height="413" alt="Screenshot 2026-09-20 121000_edited" src="https://github.com/user-attachments/assets/b5f22622-c91e-4545-bce3-7ce6e00ba7cb" />
+
 
 
 

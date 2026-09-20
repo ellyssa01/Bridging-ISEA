@@ -1,4 +1,4 @@
-Ubuntu
+LAB 1 Ubuntu
 <img width="1508" height="962" alt="Screenshot 2026-09-13 091706_edited" src="https://github.com/user-attachments/assets/30beb5a6-894a-4686-9b4f-e1ff208a6692" />
 
 sudo apt update
@@ -16,7 +16,7 @@ find my ip address
 Final
 <img width="1273" height="816" alt="Screenshot 2026-09-13 094514_edited" src="https://github.com/user-attachments/assets/d65efe0b-aec3-4d1c-8dbd-a221be5b44b8" />
 
-
+LAB 2
 Add users
 <img width="1035" height="746" alt="Screenshot 2026-09-13 113049_edited" src="https://github.com/user-attachments/assets/5d16b4f0-1195-49b2-b784-ee7c32adf99e" />
 

@@ -44,7 +44,7 @@ Check the status for apache2
 Check if apache2 sucesfully running and appear default landing page
 <img width="1926" height="1303" alt="Screenshot 2026-09-13 160947_edited" src="https://github.com/user-attachments/assets/f292c938-9dd0-44a9-bfe5-1b28f6b289cd" />
 
-
+LAB 3
 
 I registered the domain through IONOS. I created an A record with host name `@` that points the domain to my AWS EC2 instance public IPv4 address, `18.212.101.97`
 <img width="1295" height="682" alt="Screenshot 2026-09-19 120132_edited" src="https://github.com/user-attachments/assets/6eac696f-1535-41c1-8ff3-a0889e324913" />

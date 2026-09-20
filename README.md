@@ -10,8 +10,7 @@ install ngnix
 find my ip address
 <img width="695" height="285" alt="Screenshot 2026-09-13 092503_edited" src="https://github.com/user-attachments/assets/1546c2e0-c181-4601-9a4e-0ba6881f6995" />
 
-E<img width="2077" height="733" alt="Screenshot 2026-09-19 120204_edited" src="https://github.com/user-attachments/assets/5e7f8ee5-475a-4352-808c-95a55d23d118" />
-dit html
+
 <img width="687" height="551" alt="Screenshot 2026-09-13 094438_edited" src="https://github.com/user-attachments/assets/c76d9995-dda6-4d5b-8506-5c4cf21a75d0" />
 
 Final

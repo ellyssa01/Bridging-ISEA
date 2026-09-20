@@ -109,6 +109,9 @@ Security setup
 Database created
 <img width="981" height="413" alt="Screenshot 2026-09-20 121000_edited" src="https://github.com/user-attachments/assets/b5f22622-c91e-4545-bce3-7ce6e00ba7cb" />
 
+<img width="532" height="632" alt="Screenshot 2026-09-20 170512_edited" src="https://github.com/user-attachments/assets/525bf14c-e21e-4233-8508-48b5079fba4e" />
+
+
 
 
 
